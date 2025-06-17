@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=thelordside&label=Profile%20views&color=0e75b6&style=flat" alt="thelordside" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thelordside&theme=algolia" alt="thelordside trophies" />
-  </a>
-</p>
 
 - 📫 How to reach me **cedricaguigah@gmail.com**  
 - ⚡ Fun fact **I'm not that funny, but I always try to be**
@@ -78,6 +73,12 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thelordside&theme=algolia" alt="thelordside trophies" />
+  </a>
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelordside&layout=compact&theme=default" alt="Top Languages" />
