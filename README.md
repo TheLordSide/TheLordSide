@@ -41,9 +41,10 @@
 #### 🧰 Frameworks & Libraries
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" />
+  <img src="https://img.icons8.com/fluency/48/rad-studio.png" width="40" height="40" alt="RAD Studio" />
 </p>
 
 #### 🗃️ Databases
@@ -60,7 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/RAD_Studio_Icon.png" width="40" height="40" alt="RAD Studio" />
+  
 </p>
 
 #### 🎮 Game Engines
