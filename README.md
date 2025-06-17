@@ -86,6 +86,13 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
+![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
+![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+![RAD Studio](https://upload.wikimedia.org/wikipedia/commons/e/e0/RAD_Studio_Icon.png)
+![Godot](https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelordside&show_icons=true&locale=en&layout=compact" alt="thelordside" /></p>
