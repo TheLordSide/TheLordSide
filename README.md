@@ -80,10 +80,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelordside&layout=compact&theme=default" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelordside&show_icons=true&locale=en&layout=compact" alt="thelordside" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thelordside&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thelordside&show_icons=true&locale=en" alt="thelordside" /></p>
