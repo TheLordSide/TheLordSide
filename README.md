@@ -34,8 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Delphi_10_Seattle_Product_Icon.png" width="40" height="40" alt="Delphi" />
+  <img src="https://img.shields.io/badge/Pascal-3776AB?style=for-the-badge&logoColor=white" alt="Pascal" />
 </p>
+
 
 #### 🧰 Frameworks & Libraries
 
@@ -60,7 +61,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/RAD_Studio_Icon.png" width="40" height="40" alt="RAD Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 </p>
 
 #### 🎮 Game Engines
