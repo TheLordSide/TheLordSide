@@ -14,7 +14,7 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="[www.linkedin.com/in/cédric-aguigah](https://linkedin.com/in/cédric aguigah)" target="_blank">
+  <a href="https://linkedin.com/in/cédric-aguigah" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+    https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin
   </a>
 </p>
 
